@@ -1,6 +1,6 @@
 # Mint Sign-up Mockup
 
-Garett Tok, 2019
+Garett Tok, 2018
 
 Hostead at: https://walnutdust.github.io/mock-intuit/
 
