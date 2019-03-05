@@ -1,5 +1,9 @@
 # Mint Sign-up Mockup
 
+Garett Tok, 2019
+
+Hostead at: https://walnutdust.github.io/mock-intuit/
+
 The objective was to re-build [Mint.com's signup page](https://wwws.mint.com/login.event?task=S) using HTML and CSS.
 
 ## Languages 
